@@ -1,0 +1,21 @@
+current directory: /mnt/c/Users/user/work1/work1/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+/mnt/c/Users/user/work1/.rbenv/versions/2.7.0/bin/ruby -I /mnt/c/Users/user/work1/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20210712-2657-xqx8x9.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/user/work1/work1/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 1.1 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/user/work1/work1/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.8 s in the future
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/user/work1/work1/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR=" install
+make: Warning: File 'bootsnap.so' has modification time 1 s in the future
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210712-2657-rxl2cd/bootsnap
+make: warning:  Clock skew detected.  Your build may be incomplete.

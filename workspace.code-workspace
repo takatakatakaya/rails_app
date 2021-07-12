@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\OneDrive\\ドキュメント\\java\\java02\\aaaaa"
+		},
+		{
+			"path": "..\\..\\OneDrive\\new"
+		},
+		{
+			"path": "..\\..\\OneDrive\\chatapp"
+		},
+		{
+			"path": "..\\..\\OneDrive\\mine"
+		},
+		{
+			"path": "..\\..\\OneDrive\\デスクトップ\\First_work"
+		},
+		{
+			"path": "..\\..\\OneDrive\\デスクトップ\\todotodo"
+		},
+		{
+			"path": "..\\..\\OneDrive\\デスクトップ\\example"
+		},
+		{
+			"path": "..\\..\\OneDrive\\デスクトップ\\work1"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		]
+	}
+}
